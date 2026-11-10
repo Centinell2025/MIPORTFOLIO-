@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Iliana León — Professional portfolio</title>
-<desc id="desc">Cybersecurity, digital forensics and technical documentation. Beacon of the Eagle LLC, Centinell Suite Defense.</desc>
+<title id="title">Iliana León — Technology &amp; music portfolio</title>
+<desc id="desc">Samples from Beacon of the Eagle LLC and Victoria en Cristo Jesús LLC.</desc>
 <rect width="1200" height="320" rx="16" fill="#102d3b"/>
 <g fill="none" stroke="#80b8b0" stroke-opacity=".24">
 <circle cx="1040" cy="150" r="220"/><circle cx="1040" cy="150" r="166"/><circle cx="1040" cy="150" r="112"/>
@@ -8,10 +8,10 @@
 </g>
 <path d="M56 65h72" stroke="#d6b47d" stroke-width="4"/>
 <g font-family="Arial,Helvetica,sans-serif">
-<text x="56" y="120" font-size="18" fill="#a8cec7" letter-spacing="3">BEACON OF THE EAGLE LLC</text>
+<text x="56" y="120" font-size="18" fill="#a8cec7" letter-spacing="3">TECHNOLOGY · MUSIC · CREATIVE DIRECTION</text>
 <text x="52" y="193" font-size="66" font-weight="700" fill="#fff">Iliana León</text>
-<text x="56" y="238" font-size="23" fill="#d5e6e4">Cybersecurity · Digital Forensics · Documentation</text>
-<text x="56" y="300" font-size="17" fill="#d6b47d" letter-spacing="2">CENTINELL SUITE DEFENSE</text>
+<text x="56" y="238" font-size="23" fill="#d5e6e4">Cybersecurity · Digital Forensics · Christian Music</text>
+<text x="56" y="300" font-size="17" fill="#d6b47d" letter-spacing="2">BEACON OF THE EAGLE LLC · VICTORIA EN CRISTO JESÚS LLC</text>
 <text x="1000" y="174" font-size="66" fill="#d6b47d">IL</text>
 </g>
 </svg>

@@ -57,6 +57,14 @@ The web/PWA project provides parent-guided early-vocabulary activities using pic
 
 **Scope:** speech availability depends on the browser and operating system. Translations require native-speaker editorial review. Web-source publication does not establish Google Play or App Store distribution.
 
+## Victoria en Cristo Jesús LLC
+
+**Area:** Christian music production and creative direction.
+
+The visual portfolio includes two short excerpts from existing recordings: **Jesus, My Messiah** and **Salt of the Earth**. Each sample selects source time 00:30–00:55, with short fades at the boundaries for presentation. The recordings are presented as creative work using an AI-assisted production workflow.
+
+The waveform illustrations are computed from the actual sample audio. Embedded players require a user action to start playback. Full recordings and unrelated source materials are not included in the public portfolio.
+
 ## Updating this portfolio
 
 1. Review the current project version and documentation.

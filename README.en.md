@@ -1,9 +1,9 @@
 ![Iliana León — Professional portfolio](assets/portfolio-banner.svg)
 
 # Iliana León
-**Founder, Centinell Suite Defense · Beacon of the Eagle LLC**
+**Technology & creative entrepreneur · Beacon of the Eagle LLC · Victoria en Cristo Jesús LLC**
 
-I develop projects in cybersecurity, digital forensics, technical documentation and educational applications. My work connects graduate education with investigation scenarios, prototypes and tools that support human decision-making.
+Through Beacon of the Eagle LLC and Centinell Suite Defense, I develop technology and forensic education projects. Through Victoria en Cristo Jesús LLC, I create Christian music productions using creative direction and AI-assisted workflows.
 
 [Corporate website](https://www.centinellsuitedefence.com/) · [LinkedIn](https://www.linkedin.com/in/iliana-leon-b72030135/) · [GitHub](https://github.com/Centinell2025) · [Contact](mailto:beaconoftheeagle@centinellsuitedefence.com)
 
@@ -11,9 +11,28 @@ I develop projects in cybersecurity, digital forensics, technical documentation 
 
 ## HTML portfolio
 
-The complete visual portfolio is available in [index.html](index.html). Download the file and open it in a browser to use the project filters, project notes, contact links and print layout. It is self-contained and requires no installation.
+The complete visual portfolio is available in [index.html](index.html). Download the raw HTML file and open it in a browser to see both companies, inspect technical samples and play the music excerpts. The HTML includes its styles, scripts and audio, so the samples do not require installation or a separate media folder.
 
-## Focus
+GitHub's file view displays the HTML source. Downloading and opening the file displays the visual portfolio.
+
+## Small samples of existing work
+
+### Beacon of the Eagle LLC / Centinell Suite Defense
+
+- [Four authentication records](assets/samples/authentication-records-sample.csv), excerpted from the public synthetic dataset in [The Forgotten Session](https://github.com/Centinell2025/CENTINELL-The-Forgotten-Session).
+- A short Python evidence-verification excerpt displayed in the HTML, with a link to the complete public source.
+- Selected Centinell projects and educational laboratories below.
+
+### Victoria en Cristo Jesús LLC
+
+| Recording | Sample | Source segment |
+| --- | --- | --- |
+| **Jesus, My Messiah** | [25-second audio excerpt](assets/samples/jesus-my-messiah-excerpt.mp3) | 00:30–00:55 |
+| **Salt of the Earth** | [25-second audio excerpt](assets/samples/salt-of-the-earth-excerpt.mp3) | 00:30–00:55 |
+
+These excerpts come from existing recordings; they are not full tracks. The HTML contains playable audio controls and waveforms derived from those excerpts. No audio plays automatically.
+
+## Technology focus
 
 - **Digital forensics and incident response:** log correlation, timelines, evidence integrity and clearly bounded conclusions.
 - **Technical education:** fictional training scenarios, synthetic evidence and student documentation.
