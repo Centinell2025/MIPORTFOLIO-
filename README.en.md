@@ -1,7 +1,5 @@
 ![Iliana León — Professional portfolio](assets/portfolio-banner.svg)
 
-<p align="center"><a href="README.md">Español</a> · <strong>English translation</strong></p>
-
 # Iliana León
 **Founder, Centinell Suite Defense · Beacon of the Eagle LLC**
 
@@ -9,7 +7,11 @@ I develop projects in cybersecurity, digital forensics, technical documentation 
 
 [Corporate website](https://www.centinellsuitedefence.com/) · [LinkedIn](https://www.linkedin.com/in/iliana-leon-b72030135/) · [GitHub](https://github.com/Centinell2025) · [Contact](mailto:beaconoftheeagle@centinellsuitedefence.com)
 
-**Working and contact language: Spanish.** This page is an English translation of my portfolio.
+**Working and contact language: Spanish.** This portfolio is presented in English.
+
+## HTML portfolio
+
+The complete visual portfolio is available in [index.html](index.html). Download the file and open it in a browser to use the project filters, project notes, contact links and print layout. It is self-contained and requires no installation.
 
 ## Focus
 
@@ -28,7 +30,7 @@ I develop projects in cybersecurity, digital forensics, technical documentation 
 
 These public descriptions summarize the projects. Private source code remains reserved.
 
-[Project notes and scope — Spanish](docs/PROYECTOS.md)
+[Project notes and scope](docs/PROJECTS.md)
 
 ## Selected public training work
 

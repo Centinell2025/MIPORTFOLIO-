@@ -1,71 +1,73 @@
-![Iliana León — Portafolio profesional](assets/portfolio-banner.svg)
-
-<p align="center"><strong>Español</strong> · <a href="README.en.md">English translation</a></p>
+![Iliana León — Professional portfolio](assets/portfolio-banner.svg)
 
 # Iliana León
-**Fundadora de Centinell Suite Defense · Beacon of the Eagle LLC**
+**Founder, Centinell Suite Defense · Beacon of the Eagle LLC**
 
-Desarrollo proyectos de ciberseguridad, análisis forense digital, documentación técnica y aplicaciones educativas. Mi trabajo conecta la formación de posgrado con escenarios de investigación, prototipos y herramientas para apoyar decisiones con supervisión humana.
+I develop projects in cybersecurity, digital forensics, technical documentation and educational applications. My work connects graduate education with investigation scenarios, prototypes and tools that support human decision-making.
 
-[Web corporativa](https://www.centinellsuitedefence.com/) · [LinkedIn](https://www.linkedin.com/in/iliana-leon-b72030135/) · [GitHub](https://github.com/Centinell2025) · [Contacto](mailto:beaconoftheeagle@centinellsuitedefence.com)
+[Corporate website](https://www.centinellsuitedefence.com/) · [LinkedIn](https://www.linkedin.com/in/iliana-leon-b72030135/) · [GitHub](https://github.com/Centinell2025) · [Contact](mailto:beaconoftheeagle@centinellsuitedefence.com)
 
-**Idioma de trabajo y contacto: español.** La versión en inglés es una traducción de esta presentación.
+**Working and contact language: Spanish.** This portfolio is presented in English.
 
-## Áreas de trabajo
+## HTML portfolio
 
-- **Investigación forense digital y respuesta a incidentes:** correlación de registros, cronologías, integridad de evidencias y límites de las conclusiones.
-- **Formación técnica:** diseño de laboratorios con escenarios ficticios, evidencias sintéticas y documentación para estudiantes.
-- **Software y sistemas:** diseño de flujos de trabajo, prototipos, documentación y evaluación de funciones.
-- **Investigación aplicada:** experimentos reproducibles, datos sintéticos y revisión de resultados.
+The complete visual portfolio is available in [index.html](index.html). Download the file and open it in a browser to use the project filters, project notes, contact links and print layout. It is self-contained and requires no installation.
 
-## Proyectos Centinell
+## Focus
 
-| Proyecto | Propósito | Estado presentado |
+- **Digital forensics and incident response:** log correlation, timelines, evidence integrity and clearly bounded conclusions.
+- **Technical education:** fictional training scenarios, synthetic evidence and student documentation.
+- **Software and systems:** workflow design, prototypes, documentation and functional evaluation.
+- **Applied research:** reproducible experiments, synthetic data and review of results.
+
+## Centinell projects
+
+| Project | Purpose | Presented status |
 | --- | --- | --- |
-| **OceanCentinell Enterprise** | Ciberseguridad y visibilidad operativa en el ámbito marítimo. | Desarrollo y evaluación técnica; el alcance de una implementación se valida por separado. |
-| **Centinell Forensics / ForensicCentinell** | Organización de casos y documentación de investigaciones digitales. | Desarrollo; cada función debe comprobarse en la versión evaluada. |
-| **SkyguardCentinell Twins** | Investigación de modelos y continuidad entre nodos. | Base civil de investigación offline con temperaturas sintéticas; no representa un despliegue operativo con equipos reales. |
+| **OceanCentinell Enterprise** | Maritime cybersecurity and operational visibility. | Development and technical evaluation; implementation scope requires separate validation. |
+| **Centinell Forensics / ForensicCentinell** | Case organization and documentation for digital investigations. | In development; capabilities must be checked in the evaluated version. |
+| **SkyguardCentinell Twins** | Research into models and continuity between nodes. | Civilian offline research baseline using synthetic temperatures; not an operational real-hardware deployment. |
 
-Las descripciones públicas resumen los proyectos. Su código privado permanece reservado.
+These public descriptions summarize the projects. Private source code remains reserved.
 
-[Leer las fichas y los límites de cada proyecto](docs/PROYECTOS.md)
+[Project notes and scope](docs/PROJECTS.md)
 
-## Laboratorios públicos seleccionados
+## Selected public training work
 
-| Trabajo | Qué permite explorar | Material |
+| Project | Investigation focus | Material |
 | --- | --- | --- |
-| **The Last Evidence Standing** | Correlación de registros incompletos, reconstrucción de una cronología e integridad de evidencias. | [Repositorio y documentación](https://github.com/Centinell2025/the-last-evidence-standing) |
-| **The Silent Payload** | Investigación offline de un incidente simulado, triage y elaboración de conclusiones sustentadas en artefactos. | [Repositorio y ejercicios](https://github.com/Centinell2025/CENTINELL-The-Silent-Payload) |
-| **The Forgotten Session** | Correlación de cuentas y sesiones de autenticación en registros sintéticos. | [Repositorio y guía](https://github.com/Centinell2025/CENTINELL-The-Forgotten-Session) |
-| **EchoTrace — The Missing Evidence** | Análisis de interrupciones, pérdida de datos y supuestos de recuperación. | [Proyecto en desarrollo y pruebas](https://github.com/Centinell2025/EchoTrace-The-Missing-Evidence) |
+| **The Last Evidence Standing** | Correlating incomplete records, reconstructing a timeline and checking evidence integrity. | [Repository and documentation](https://github.com/Centinell2025/the-last-evidence-standing) |
+| **The Silent Payload** | Offline simulated-incident investigation, triage and artifact-supported reporting. | [Repository and exercises](https://github.com/Centinell2025/CENTINELL-The-Silent-Payload) |
+| **The Forgotten Session** | Account and authentication-session correlation using synthetic records. | [Repository and guide](https://github.com/Centinell2025/CENTINELL-The-Forgotten-Session) |
+| **EchoTrace — The Missing Evidence** | Outages, data loss and recovery assumptions. | [Development and playtesting](https://github.com/Centinell2025/EchoTrace-The-Missing-Evidence) |
 
-Estos son escenarios educativos ficticios. Su publicación en GitHub no implica aceptación, certificación ni aprobación por una plataforma externa. Los solucionarios privados no forman parte de este portafolio.
+All are fictional educational scenarios. A public repository does not establish external platform acceptance, certification or approval. Private instructor solutions are not included in this portfolio.
 
-## Aplicación educativa
+## Educational application
 
 **[My First Words Kids — 20 Games With Sound](https://github.com/Centinell2025/My-First-Words-20-Games-Sound-v5.zip)**
 
-Proyecto web/PWA de vocabulario temprano con actividades visuales y sonido para uso acompañado por una persona adulta. El repositorio documenta ocho idiomas y selección de pares de aprendizaje. La voz depende del dispositivo; las traducciones y la experiencia en dispositivos requieren sus propias revisiones. La publicación del código web no confirma disponibilidad en tiendas móviles.
+Parent-guided early-vocabulary web/PWA project with visual activities and sound. Its repository documents eight languages and learning-language pairs. Speech depends on the device; translations and device behavior require their own reviews. Web-source publication does not confirm mobile-store availability.
 
-## Formación
+## Education
 
-- Maestría en Ciberseguridad.
-- Maestría en Tecnologías de la Información (IT).
+- Master's degree in Cybersecurity.
+- Master's degree in Information Technology.
 
-## Cómo presento mi trabajo
+## Approach
 
-Distingo la intención de diseño de las funciones verificadas. Documento escenarios sintéticos como tales, explico los límites de los resultados y conservo la intervención humana en las decisiones.
+I distinguish design goals from verified behavior, identify synthetic scenarios, document the limits of findings and retain human oversight.
 
-Mi interés profesional se centra en la investigación forense digital, la documentación técnica y el desarrollo de tecnología que pueda ponerse a prueba.
+My professional interests include digital forensic investigation, technical documentation and technology that can be tested.
 
-## Contacto profesional
+## Professional contact
 
-Para conversar sobre los proyectos, documentación técnica o colaboraciones:
+Project discussions, technical documentation and collaboration inquiries in Spanish:
 
 **[beaconoftheeagle@centinellsuitedefence.com](mailto:beaconoftheeagle@centinellsuitedefence.com)**
 
-[Centinell Suite Defense / Beacon of the Eagle LLC](https://www.centinellsuitedefence.com/) · [LinkedIn de Iliana León](https://www.linkedin.com/in/iliana-leon-b72030135/)
+[Corporate website](https://www.centinellsuitedefence.com/) · [Iliana León on LinkedIn](https://www.linkedin.com/in/iliana-leon-b72030135/)
 
 ---
 
-Actualización editorial: **10 de noviembre de 2026**. Los estados describen el alcance documentado al preparar esta presentación; consulta cada repositorio para sus instrucciones y limitaciones vigentes.
+Editorial update: **10 November 2026**. Status descriptions reflect the documented scope reviewed for this presentation; consult each project for current instructions and limitations.
